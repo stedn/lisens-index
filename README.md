@@ -1,2 +1,2 @@
-# micense-index
-a list of individuals adopting a micense
+# lisens-index
+a list of individuals adopting a lisens
