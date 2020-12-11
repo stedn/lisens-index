@@ -1,2 +1,2 @@
 # icense-index
-a list of individuals with adopting an Icense
+a list of individuals adopting an Icense
